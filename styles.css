@@ -29,13 +29,13 @@ header h1, .details h2 {
 }
 
 .shadow-text {
-    font-family: 'Imprint MT Shadow', Arial, sans-serif; /* Imprint MT Shadow shriftida */
+    font-family: 'Imprint MT Shadow', Arial, sans-serif;
 }
 
 .normal-text {
-    font-family: Arial, sans-serif; /* Teshavoy va Boltaxon uchun oddiy shrift */
-    font-weight: bold; /* Qalinroq qilib ajratilgan */
-    color: #d60051; /* Qizil rangda */
+    font-family: Arial, sans-serif;
+    font-weight: bold;
+    color: #090909;
 }
 
 .countdown {
